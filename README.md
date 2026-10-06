@@ -1,4 +1,4 @@
-# 🐍 Python Pattern Programs 2026
+# 🐍 Python Pattern Programs 
 
 <div align="center">
 
@@ -239,7 +239,7 @@ https://github.com/saravananbass12-tech
 
 <div align="center">
 
-### ⭐ Python Pattern Programs — 2026
+### ⭐ Python Pattern Programs 
 
 **Learn • Practice • Code • Improve**
 
