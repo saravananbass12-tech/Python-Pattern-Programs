@@ -1,10 +1,10 @@
-# 🐍 Python Pattern Programs 
+# 🐍 Python Pattern Programs 2026
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-2026-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Pattern%20Programs-2026-6C63FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Beginner%20Friendly-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python%20Practice-00C853?style=for-the-badge">
 
 </div>
 
@@ -30,11 +30,7 @@ These programs are useful for **Python beginners, logical thinking, coding pract
 
 ## 1️⃣ Decrement Pattern / Inverted Half Pyramid
 
-### 🖼️ Pattern
-
-![Decrement Pattern](images/decrement-pattern.png)
-
-### 💻 Python Code
+### Python Code
 
 ```python
 for i in range(1, 6):
@@ -57,11 +53,7 @@ for i in range(1, 6):
 
 ## 2️⃣ Increment Pattern / Half Pyramid
 
-### 🖼️ Pattern
-
-![Increment Pattern](images/increment-pattern.png)
-
-### 💻 Python Code
+### Python Code
 
 ```python
 for i in range(1, 6):
@@ -82,13 +74,9 @@ for i in range(1, 6):
 
 ---
 
-## 3️⃣ Full Pyramid
+# 3️⃣ Full Pyramid
 
-### 🖼️ Pattern
-
-![Full Pyramid](images/full-pyramid.png)
-
-### 💻 Python Code
+### Python Code
 
 ```python
 for i in range(6):
@@ -117,13 +105,9 @@ for i in range(6):
 
 ---
 
-## 4️⃣ Inverted Full Pyramid
+# 4️⃣ Inverted Full Pyramid
 
-### 🖼️ Pattern
-
-![Inverted Full Pyramid](images/inverted-full-pyramid.png)
-
-### 💻 Python Code
+### Python Code
 
 ```python
 for i in range(6):
@@ -152,13 +136,9 @@ for i in range(6):
 
 ---
 
-## 5️⃣ ❤️ Heart Pattern
+# ❤️ 5️⃣ Heart Pattern
 
-### 🖼️ Pattern
-
-![Heart Pattern](images/heart-pattern.png)
-
-### 💻 Python Code
+### Python Code
 
 ```python
 for i in range(6):
@@ -215,14 +195,18 @@ for i in range(6):
 
 # 🛠️ Technology
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+</div>
 
 ---
 
-# 📋 Pattern List
+# 📂 Pattern List
 
 ```text
-🐍 Python Pattern Programs 2026
+Python Pattern Programs
 │
 ├── ⭐ Decrement Pattern
 ├── ⭐ Increment Pattern
@@ -245,7 +229,9 @@ for i in range(6):
 
 📍 **Tamil Nadu, India**
 
-💻 **[GitHub](https://github.com/saravananbass12-tech)**
+💻 **GitHub**
+
+https://github.com/saravananbass12-tech
 
 </div>
 
@@ -253,10 +239,8 @@ for i in range(6):
 
 <div align="center">
 
-### ⭐ Python Pattern Programs 
+### ⭐ Python Pattern Programs — 2026
 
 **Learn • Practice • Code • Improve**
-
-**Made with Python 🐍**
 
 </div>
